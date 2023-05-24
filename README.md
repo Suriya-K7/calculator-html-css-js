@@ -1,12 +1,12 @@
-# [🔗 GUVI Day Fifteen task]()
+# [🔗 GUVI Day Fifteen task](https://suriya-k7-day-15-task-03-calculator.netlify.app/)
 
-heading need to add
+## Task 03 : Calculator using DOM Manipulation
 
-## Created task deployed on below link :
+## Created task deployed on below links :
 
-Task 03 : Calculator using DOM
+<a href="https://suriya-k7-day-15-task-03-calculator.netlify.app/" target="_blank">Deployed in Netlify</a>
 
-<a href="" target="_blank">Link need to add</a>
+<a href="https://suriya-k7.github.io/Guvi_Day_15_task_03_calculator/" target="_blank">Deployed in Github.io</a>
 
 <i>Note: Calculator created with Key up events & for mobile use added click event also.</i>
 
