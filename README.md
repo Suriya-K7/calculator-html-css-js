@@ -1,10 +1,10 @@
-# [🔗 GUVI Day Fifteen task](https://suriya-k7-day-15-task-03-calculator.netlify.app/)
+# [🔗 GUVI Day Fifteen task](https://calculator-sk7.netlify.app/)
 
 ## Task 03 : Calculator using DOM Manipulation
 
 ## Created task deployed on below links :
 
-<a href="https://suriya-k7-day-15-task-03-calculator.netlify.app/" target="_blank">Deployed in Netlify</a>
+<a href="https://calculator-sk7.netlify.app/" target="_blank">Deployed in Netlify</a>
 
 <a href="https://suriya-k7.github.io/Guvi_Day_15_task_03_calculator/" target="_blank">Deployed in Github.io</a>
 
